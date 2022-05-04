@@ -1,0 +1,3 @@
+../Core/Src/server.c:10:12:srv_ReceiveMessage	24	static
+../Core/Src/server.c:28:12:srv_TransmitMessage	40	static
+../Core/Src/server.c:100:9:srv_GetCRC	24	static

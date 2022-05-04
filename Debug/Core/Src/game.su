@@ -1,0 +1,8 @@
+../Core/Src/game.c:37:6:gm_ReceiveMyID	16	static
+../Core/Src/game.c:41:8:gm_SendName	16	static
+../Core/Src/game.c:46:8:gm_SendBoard	16	static
+../Core/Src/game.c:52:8:gm_SendCoord	24	static
+../Core/Src/game.c:60:6:gm_ReceiveStartRound	16	static
+../Core/Src/game.c:63:6:gm_ReceiveConfirmHit	16	static
+../Core/Src/game.c:66:6:gm_ReceiveTargeted	16	static
+../Core/Src/game.c:69:6:gm_ReceiveGameEnd	16	static
